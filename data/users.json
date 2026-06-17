@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1781597681861,
+    "username": "fariha",
+    "password": "$2b$10$4tSnaM2XiiM9t/zK3wad9.0SZdTJSqv/VravtQZyHT9qAskueIZce",
+    "role": "admin"
+  },
+  {
+    "id": 1781603042472,
+    "username": "shayle",
+    "password": "$2b$10$UbNTE7PkYuQb0V8.0PLxSOUyJAMMbtb1bfpKO7wlXoXouNc50sva6",
+    "role": "user"
+  },
+  {
+    "id": 1781697983907,
+    "username": "Salma",
+    "password": "$2b$10$AlbldvDct1kiDx0heMIwjOgMoF0qWxnOgmpwVprdqFg/q3A4oVLtS",
+    "role": "admin"
+  },
+  {
+    "id": "1781710508810",
+    "username": "sayle",
+    "password": "$2b$10$jsqKkOP9YRo9leNhBSLzJu5i/IpyxvkF9R9ibBCMCf5aol61TwtqK",
+    "role": "admin",
+    "createdAt": "2026-06-17T15:35:08.810Z"
+  }
+]
